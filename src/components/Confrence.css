@@ -1,0 +1,19 @@
+.confrence {
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.styleTable {
+    margin-top: 20px;
+}
+
+.active {
+    color: green;
+}
+
+.inactive {
+    color: red;
+}
